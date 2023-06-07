@@ -19,7 +19,7 @@
             <img src="images/logo1.png" alt="logo" width="200px" height="90px  ">
         </div>
         <div class="r0-c2">
-            <a href="index.php">Home</a>
+            <a href="index.php">Home ALONE</a>
             <a href="about-us.php">About Us</a>
             <a href="Course_catlog.php">Courses</a>
             <a href="learn-tool.php">Learning Tools</a>
